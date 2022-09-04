@@ -1,0 +1,7 @@
+Thalles;21
+Paulo;34
+Lucas;29
+Maria;38
+Carla;87
+Rodrigo;12
+Matheus;25
